@@ -1,5 +1,8 @@
 body{
-	background-color:black;
+	background-image:url("../images/memphis-colorful.png");
+}
+.container{
+	border:solid;
 }
 .question-container{
 	margin-top:50px;
@@ -27,5 +30,11 @@ body{
 }
 .go-back-button{
 	float:left;
+	display:none;
+}
+.results-container{
+	margin-top:50px;
+	background-color:white;
+	text-align:center;
 	display:none;
 }
