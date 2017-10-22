@@ -12,7 +12,7 @@ $(document).ready(function() {
 	{title:'Who was the first person to travel into space?',answer:'Yuri Gagarin',distractor1:'Neil Armstrong',distractor2:'Buzz Aldrin',distractor3:'Sally Ride',answeredCorrectly:false,id:0},];
 	var questionsRandomized = [];
 	var currentQuestionIndex = 0;
-	var time = 30;
+	var time = 50;
 	var questionIndex = 1;
 	var interval;
 
